@@ -6,9 +6,9 @@
 "maintenance_mode": false,
 "maintenance_msg": "التطبيق تحت الصيانة حالياً لتحديث السيرفرات، سنعود للعمل خلال دقائق.",
 "announcement": {
-"active": false,
+"active": true,
 "title": "تنبيه هام",
-"message": "تم تحديث جميع قنوات البث الرياضي وتعمل الآن بأعلى كفاءة."
+"message": "تحية خاصة الى احمد حشيش."
 },
 "playlist_url": "channels.m3u"
 }
