@@ -6,7 +6,7 @@
 "maintenance_mode": false,
 "maintenance_msg": "التطبيق تحت الصيانة حالياً لتحديث السيرفرات، سنعود للعمل خلال دقائق.",
 "announcement": {
-"active": true,
+"active": false,
 "title": "تنبيه هام",
 "message": "تحية خاصة الى احمد حشيش."
 },
