@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="movie1" tvg-name="اسم الفيلم الأول" tvg-logo="https://example.com/posters/movie1.jpg" group-title="أفلام عربية",اسم الفيلم الأول (2026)
-https://example.com/streams/movie1.mp4
-​#EXTINF:-1 tvg-id="movie2" tvg-name="اسم الفيلم الثاني" tvg-logo="https://example.com/posters/movie2.jpg" group-title="أفلام أجنبية",اسم الفيلم الثاني (2026)
-https://example.com/streams/movie2.m3u8
-​#EXTINF:-1 tvg-id="movie3" tvg-name="اسم الفيلم الثالث" tvg-logo="https://example.com/posters/movie3.jpg" group-title="أفلام أكشن",اسم الفيلم الثالث (2025)
-https://example.com/streams/movie3.mp4
+​#EXTINF:-1 group-title="أفلام عربية",اسم الفيلم الأول
+https://example.com/movie1.mp4
+​#EXTINF:-1 group-title="أفلام أجنبية",اسم الفيلم الثاني
+https://example.com/movie2.mp4
+​#EXTINF:-1 group-title="أفلام أكشن" tvg-logo="https://example.com/poster.jpg",فيلم بصورة اختيارية
+https://example.com/movie3.mp4
