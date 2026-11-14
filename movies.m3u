@@ -1,10 +1,4 @@
 #EXTM3U
-​#EXTINF:-1 group-title="أفلام عربية",اسم الفيلم الأول
-https://example.com/movie1.mp4
-​#EXTINF:-1 group-title="أفلام أجنبية",اسم الفيلم الثاني
-https://example.com/movie2.mp4
-​#EXTINF:-1 group-title="أفلام أكشن" tvg-logo="https://example.com/poster.jpg",فيلم بصورة اختيارية
-https://example.com/movie3.mp4
 #EXTINF:-1 group-title="مسلسلات",مسلسل The Lord of the Rings The Rings of Power الموسم الثالث
 https://proxydwxro4340gfvbnssxdffdvwerwe432vxcvxcvbcx321scvx5cdsw1sfsd.visitmycityfor365days.cc/hls2/01/00130/h94w2remluvp_l/index-v1-a1.m3u8?t=Cp91NmCRricFWVxWP5zPg2ZsfRTgHSSWT53gQdHE9PU&s=1794665051&e=43200&v=1053602&srv=encodeg2dffdvwerwe432vxcvxcvbcx321scvxv45cdsw1dfdsfsd&i=0.0&sp=0
 #EXTINF:-1 group-title="مسلسلات",مسلسل The Lord of the Rings The Rings of Power الموسم الثالث 360p
@@ -13,38 +7,3 @@ https://proxydwxro4340gfvbnssxdffdvwerwe432vxcvxcvbcx321scvx5cdsw1sfsd.visitmyci
 https://proxydwxro4340gfvbnssxdffdvwerwe432vxcvxcvbcx321scvx5cdsw1sfsd.visitmycityfor365days.cc/hls2/01/00130/h94w2remluvp_l/index-v1-a1.m3u8?t=Cp91NmCRricFWVxWP5zPg2ZsfRTgHSSWT53gQdHE9PU&s=1794665051&e=43200&v=1053602&srv=encodeg2dffdvwerwe432vxcvxcvbcx321scvxv45cdsw1dfdsfsd&i=0.0&sp=0
 #EXTM3U
 
-# ===== المسلسل الأول: المداح (3 حلقات) =====
-#EXTINF:-1 tvg-logo="https://i.imgur.com/maddah_poster.jpg" group-title="مسلسلات عربية",المداح الحلقة 1
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/maddah_poster.jpg" group-title="مسلسلات عربية",المداح الحلقة 2
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/maddah_poster.jpg" group-title="مسلسلات عربية",المداح الحلقة 3
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
-
-# ===== المسلسل الثاني: بمواسم (مثال أجنبي) =====
-#EXTINF:-1 tvg-logo="https://i.imgur.com/prison_break.jpg" group-title="مسلسلات أجنبية",Prison Break S01E01
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/prison_break.jpg" group-title="مسلسلات أجنبية",Prison Break S01E02
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4
-
-# ===== فيلم منفرد (سيظهر كفيلم وليس كمسلسل) =====
-#EXTINF:-1 tvg-logo="https://i.imgur.com/welad_rizk.jpg" group-title="أفلام عربية",ولاد رزق 3
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4
-#EXTM3U
-
-# ===== الجزء الأول =====
-#EXTINF:-1 tvg-logo="https://i.imgur.com/maddah.jpg" group-title="مسلسلات عربية",المداح الجزء 1 الحلقة 1
-https://example.com/maddah/s1/ep1.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/maddah.jpg" group-title="مسلسلات عربية",المداح الجزء 1 الحلقة 2
-https://example.com/maddah/s1/ep2.mp4
-
-# ===== الجزء الثاني =====
-#EXTINF:-1 tvg-logo="https://i.imgur.com/maddah.jpg" group-title="مسلسلات عربية",المداح الجزء 2 الحلقة 1
-https://example.com/maddah/s2/ep1.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/maddah.jpg" group-title="مسلسلات عربية",المداح الجزء 2 الحلقة 2
-https://example.com/maddah/s2/ep2.mp4
