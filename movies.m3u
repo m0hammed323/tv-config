@@ -33,3 +33,18 @@ https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlaze
 # ===== فيلم منفرد (سيظهر كفيلم وليس كمسلسل) =====
 #EXTINF:-1 tvg-logo="https://i.imgur.com/welad_rizk.jpg" group-title="أفلام عربية",ولاد رزق 3
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4
+#EXTM3U
+
+# ===== الجزء الأول =====
+#EXTINF:-1 tvg-logo="https://i.imgur.com/maddah.jpg" group-title="مسلسلات عربية",المداح الجزء 1 الحلقة 1
+https://example.com/maddah/s1/ep1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/maddah.jpg" group-title="مسلسلات عربية",المداح الجزء 1 الحلقة 2
+https://example.com/maddah/s1/ep2.mp4
+
+# ===== الجزء الثاني =====
+#EXTINF:-1 tvg-logo="https://i.imgur.com/maddah.jpg" group-title="مسلسلات عربية",المداح الجزء 2 الحلقة 1
+https://example.com/maddah/s2/ep1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/maddah.jpg" group-title="مسلسلات عربية",المداح الجزء 2 الحلقة 2
+https://example.com/maddah/s2/ep2.mp4
