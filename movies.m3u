@@ -3,3 +3,6 @@
 <iframe allowfullscreen="true" frameborder="0" height="500px" scrolling="1" src="https://w.aflamy.pro/albaplayer/troy-2004?serv=1" width="100%"></iframe>
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4BBRCR3/MV5BMTk5Mz-U1MDMw-MF5BMl5Ban-Bn-Xk-Ft-ZTcw-Njcz-ODMz-Mw-V1-FMjpg-UX1000.jpg" group-title="أفلام أجنبية",Troy 2004
 <IFRAME SRC="https://mp4plus.org/embed-m6hl3jv71pdg.html" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=640 HEIGHT=360 allowfullscreen></IFRAME>
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4BBRCR3/MV5BMTk5Mz-U1MDMw-MF5BMl5Ban-Bn-Xk-Ft-ZTcw-Njcz-ODMz-Mw-V1-FMjpg-UX1000.jpg" group-title="أفلام أجنبية",jf
+<IFRAME SRC="https://mp4plus.org/embed-pr6z5pz4jsn5.html" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=640 HEIGHT=360 allowfullscreen></IFRAME>
