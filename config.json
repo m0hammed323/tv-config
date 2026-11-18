@@ -8,7 +8,7 @@
 "maintenance_mode": false,
 "maintenance_msg": "التطبيق تحت الصيانة حالياً لتحديث السيرفرات، سنعود للعمل خلال دقائق.",
 "announcement": {
-"active": false,
+"active": true,
 "title": "تنبيه هام",
 "message": "تحية خاصة."
 },
