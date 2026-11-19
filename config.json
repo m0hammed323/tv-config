@@ -1,8 +1,8 @@
 {
   "app_name": "Enjoy",
   "app_icon": "https://i.postimg.cc/Zn4ppqkb/1794668076798-2.jpg",
-  "app_version": "1.2.0",
-  "min_version": "1.2.0",
+  "app_version": "1.0.0",
+  "min_version": "1.0.0",
   "blocked_versions": [],
   "force_update": false,
   "update_url": "https://t.me/YOUR_CHANNEL_OR_DOWNLOAD_LINK",
